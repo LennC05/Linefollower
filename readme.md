@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano Every
 
-motors: 
+motors: 2x N20 DC gearmotor 6V 500 RPM
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: Pololu QTR-8A Reflectance Sensor Array
 
-batteries:
+batteries: 2S LiPo 7.4V 850mAh 20C
 
-wireless communication:
+wireless communication: HC-08
 
 distance sensor - motors:
 
