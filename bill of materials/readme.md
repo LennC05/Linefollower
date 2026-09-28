@@ -21,5 +21,6 @@
 | 16 | Klittenband kabelbinder | kabelmanagement/bevestiging | nieuw | €4,25 | 1 | €4,25 |
 | 17 | Tamiya accu-aansluitkabel | accu-aansluiting | nieuw | €1,59 | 1 | €1,59 |
 | 18 | SPST mini toggle switch | aan/uit-schakelaar | nieuw | €2,29 | 1 | €2,29 |
+| 19 | HC-08 Bluetooth 4.0 BLE Serial | draadloze bluetooth module | nieuw | €8,95 | 1 | €8,95 |
 ||
-| Totaal |  |  |  |  |  | €124,32 |
+| Totaal |  |  |  |  |  | €133,27 |
