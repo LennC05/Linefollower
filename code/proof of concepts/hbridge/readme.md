@@ -5,7 +5,7 @@ Dit proof of concept toont aan dat twee motoren onafhankelijk van elkaar kunnen 
 ## Gebruikte onderdelen
 
 - Arduino Nano Every
-- TB6612FNG dual H-brug ([datasheet](../../datasheets/TB6612FNG.pdf))
+- TB6612FNG dual H-brug ([datasheet](../datasheets/TB6612FNG.pdf))
 - 2x N20 DC gearmotor 6 V 500 RPM
 - 2S LiPo 7,4 V 850 mAh met schakelaar
 
