@@ -44,11 +44,3 @@ Dit proof of concept toont aan dat twee motoren onafhankelijk van elkaar kunnen 
 3. Controleer de bedrading, vooral de gemeenschappelijke GND.
 4. Zet de LiPo aan.
 5. Observeer de drie fasen: motor A alleen, motor B alleen, beide tegelijk met verschillende snelheid en richting.
-
-## Resultaat
-
-(Vul in na de test: werkte alles? Vanaf welk percentage start de motor? Welke problemen kwamen voor?)
-
-![Opstelling](../../images/h-brug-poc.jpg)
-
-(Link naar een filmpje van de test, indien beschikbaar.)
