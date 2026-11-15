@@ -11,7 +11,7 @@ De pinnen zijn gekozen aan de hand van het elektrisch schema (zie `technische te
 ## Gebruikte onderdelen
 
 - Arduino Nano Every
-- SPST mini toggle switch ([datasheet](../../../datasheet/ST-series-31580.pdf))
+- SPST mini toggle switch ([datasheet](/../../datasheet/ST-series-31580.pdf))
 - Ingebouwde LED van de Arduino (D13)
 
 ## Bedrading
