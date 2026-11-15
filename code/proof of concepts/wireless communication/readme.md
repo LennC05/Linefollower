@@ -65,5 +65,3 @@ De standaardinstellingen zijn 9600 baud en wachtwoord 000000. De baudrate blijft
 - Tijdens het gebruik van de module wordt `Serial1` gebruikt, dus D0 en D1 zijn niet beschikbaar voor andere toepassingen.
 
 - Problemen en oplossingen: **[invullen, of "geen"]**
-
-**Conclusie:** [bv. "Duplex communicatie tussen de Arduino en een smartphone werkt via BLE met de HC-08."]
