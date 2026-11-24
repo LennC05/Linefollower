@@ -22,5 +22,7 @@
 | 17 | Tamiya accu-aansluitkabel | accu-aansluiting | nieuw | €1,59 | 1 | €1,59 |
 | 18 | SPST mini toggle switch | aan/uit-schakelaar | nieuw | €2,29 | 1 | €2,29 |
 | 19 | HC-08 Bluetooth 4.0 BLE Serial | draadloze bluetooth module | nieuw | €8,95 | 1 | €8,95 |
+| 20 | Weerstand | 1 kOhm | recup | €0 | 3 | €0 |
+| 21 | Condensator | 100 µF, 16 V | recup | €0 | 1 | €0 |
 ||
 | Totaal |  |  |  |  |  | €133,27 |
