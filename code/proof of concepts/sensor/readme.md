@@ -39,6 +39,3 @@ Dit proof of concept toont aan dat meerdere sensoren van de Pololu QTR-8A onafha
 4. Herhaal boven een zwarte lijn (zwarte tape of een zwarte print).
 5. Leg een stuk zwarte tape onder één sensor tegelijk en controleer dat enkel die kolom verandert.
 
-- Problemen en oplossingen: **[invullen, of "geen"]**
-
-**Conclusie:** [bv. "Alle sensoren kunnen onafhankelijk uitgelezen worden en het ADC-bereik wordt voor het grootste deel benut."]
