@@ -63,5 +63,3 @@ De standaardinstellingen zijn 9600 baud en wachtwoord 000000. De baudrate blijft
 - AT-commando's werken alleen zolang er geen verbinding is (datasheet).
 - Het bereik is volgens de datasheet ongeveer 20 m in open ruimte. Metaal, muren en bomen verzwakken het signaal.
 - Tijdens het gebruik van de module wordt `Serial1` gebruikt, dus D0 en D1 zijn niet beschikbaar voor andere toepassingen.
-
-- Problemen en oplossingen: **[invullen, of "geen"]**
